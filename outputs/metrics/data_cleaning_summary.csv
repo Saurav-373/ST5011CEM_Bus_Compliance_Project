@@ -1,0 +1,16 @@
+metric,value
+raw_records,445788
+duplicates_removed,0
+missing_required_records_removed,0
+zero_runtime_records,70089
+invalid_sequence_records,0
+identical_stop_records,130
+final_cleaned_records,375668
+total_records_removed,70120
+runtime_q1_minutes,1.0
+runtime_q3_minutes,2.0
+runtime_iqr_minutes,1.0
+upper_iqr_limit_minutes,3.5
+high_duration_records_retained,15429
+final_spark_partitions,4
+parquet_rows_written,375668
