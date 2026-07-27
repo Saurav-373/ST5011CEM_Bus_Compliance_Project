@@ -1,0 +1,60 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Environment variables and private configuration
+.env
+*.env
+config/config.json
+
+# Large and generated datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/interim/*
+!data/interim/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated model files
+models/*
+!models/.gitkeep
+
+# Local databases
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Large generated predictions
+outputs/predictions/*
+!outputs/predictions/.gitkeep
+
+# Spark and Hadoop local files
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
