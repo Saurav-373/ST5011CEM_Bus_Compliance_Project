@@ -1,0 +1,5 @@
+time_of_day,record_count,average_runtime_minutes,median_runtime_minutes,standard_deviation_minutes,high_duration_records,high_duration_percentage
+Morning,146748,1.4935,1.0,1.0123,6221,4.2392
+Afternoon,145795,1.5186,1.0,1.0589,6578,4.5118
+Evening,74752,1.4118,1.0,0.9108,2485,3.3243
+Night,8373,1.3182,1.0,0.919,145,1.7318
