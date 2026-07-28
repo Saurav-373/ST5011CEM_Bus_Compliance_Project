@@ -1,0 +1,9 @@
+metric,value
+best_model_name,Gradient-Boosted Trees
+best_model_configuration,maxIter=20; maxDepth=6; stepSize=0.1; subsamplingRate=0.8
+best_model_rmse,0.668221
+best_model_mae,0.414582
+best_model_r2,0.458255
+feature_vector_size,251
+training_records,302836
+testing_records,72832

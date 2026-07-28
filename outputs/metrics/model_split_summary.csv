@@ -1,0 +1,11 @@
+metric,value
+source_records,375668
+training_records,302836
+testing_records,72832
+training_percentage,80.6127
+testing_percentage,19.3873
+training_unique_segments,4625
+testing_unique_segments,1196
+overlapping_segments,0
+training_spark_partitions,4
+testing_spark_partitions,4

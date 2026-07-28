@@ -1,0 +1,9 @@
+metric,value
+best_model_name,Gradient-Boosted Trees
+test_prediction_records,72832
+training_absolute_error_95th_percentile,0.9876171644058482
+model_anomaly_records,5105
+model_anomaly_percentage,7.0093
+longer_than_expected_anomalies,3819
+shorter_than_expected_anomalies,1286
+prediction_rows_written,72832
