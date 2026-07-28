@@ -1,0 +1,6 @@
+metric,value
+query_method,parameterised question-mark placeholder
+malicious_test_input,' OR 1=1 --
+rows_returned_for_malicious_input,0
+total_segment_records_unchanged,375668
+sql_injection_prevented,True

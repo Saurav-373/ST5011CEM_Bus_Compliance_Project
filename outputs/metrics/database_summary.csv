@@ -1,0 +1,17 @@
+metric,value
+database_file,database\bus_analytics.db
+database_size_bytes,165548032
+database_size_megabytes,157.8789
+stop_records,5143
+segment_records,375668
+model_result_records,4
+prediction_records,72832
+foreign_key_violations,0
+integrity_check,ok
+custom_indexes,10
+parameterised_route_query,True
+parameterised_anomaly_query,True
+anomaly_query_rows_returned,10
+malicious_input_rows_returned,0
+sql_injection_prevented,True
+database_build_seconds,9.9999
