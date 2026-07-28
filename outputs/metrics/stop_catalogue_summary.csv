@@ -1,0 +1,13 @@
+metric,value
+xml_files_found,169
+unreadable_xml_files,0
+annotated_stop_elements_read,12958
+local_stop_elements_read,0
+total_stop_elements_read,12958
+unique_stop_references,5143
+duplicate_stop_references,7815
+unique_annotated_stops,5143
+unique_local_stops,0
+stops_with_coordinates,0
+stops_without_coordinates,5143
+coordinate_coverage_percentage,0.0
