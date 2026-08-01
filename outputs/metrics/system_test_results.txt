@@ -1,0 +1,14 @@
+test_01_required_files_exist (test_system.TestBusAnalyticsSystem.test_01_required_files_exist) ... ok
+test_02_cleaned_dataset_counts (test_system.TestBusAnalyticsSystem.test_02_cleaned_dataset_counts) ... ok
+test_03_feature_engineering_results (test_system.TestBusAnalyticsSystem.test_03_feature_engineering_results) ... ok
+test_04_leakage_safe_split (test_system.TestBusAnalyticsSystem.test_04_leakage_safe_split) ... ok
+test_05_model_comparison (test_system.TestBusAnalyticsSystem.test_05_model_comparison) ... ok
+test_06_prediction_output (test_system.TestBusAnalyticsSystem.test_06_prediction_output) ... ok
+test_07_database_integrity (test_system.TestBusAnalyticsSystem.test_07_database_integrity) ... ok
+test_08_parameterised_query_security (test_system.TestBusAnalyticsSystem.test_08_parameterised_query_security) ... ok
+test_09_dashboard_source_compiles (test_system.TestBusAnalyticsSystem.test_09_dashboard_source_compiles) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 27.608s
+
+OK
